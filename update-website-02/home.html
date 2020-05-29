@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet"   type="text/css" href="style.css">
+    <title>Home</title>
+    <link rel="stylesheet" href="bootstrap.min.css">
+</head>
+<body>
+<div>
+    <div class="e1"> <table>
+        <tr>
+            <td width="65%"><img class="logo" src="logo.png"></td>
+            <td><ul class="nav" style="padding-left:75px">
+                                           <li>Home</li>
+                <a href="sports.html"> <li> Sports</li></a>
+                    <a href="register.php"><li>Register</li></a>
+                    <a href="about_us.html"><li>About Us</li></a>
+                    <a href="contact.html"><li>Contact</li></a>
+
+            </ul> </td></tr></table>
+
+    </div>
+    <div style="padding-top: 70px; margin-right: -10px">
+    <img class="mySlides" src="img2.jpg" style="width:100%" height="480px">
+    <img class="mySlides" src="img3.jpg" style="width:100%" height="480px">
+        <img class="mySlides" src="img5.jpg" style="width:100%" height="480px"></div>
+
+<br>
+
+    <div style="text-align:justify; background-color: #abdde5;padding-bottom: 10px; margin-right: -10px">
+        <!-- <div class="col-md-7" style="text-align: center;"> -->
+        <br>
+        <h2 style="padding-left: 600px">Welcome to sport club</h2 ><br>
+        <p style="padding-left: 250px; padding-right: 250px;">
+The Department of Sport Science and Physical Education of the University of Kelaniya provides a multi-faceted environment that delivers high quality education for those aspiring to join the sport and recreation industry. Our staff members provide student centered education through well-arranged student centered learning materials. Our academic staff members also engage in a range of basic, exploratory and explanatory research activities, often with both national and international collaboration and publication in high impact sport and recreational journals. All of these contribute towards creating an extremely conducive student centered learning environment for undergraduates who looking forward to the sport and recreation industry.
+        </p>
+    </div><br>
+
+
+
+<h2 align="center"> Find on Us</h2><br>
+
+    <div style="padding-left: 560px">
+        <ul class="icon">
+            <li style="padding-right: 10px"><a href="https://www.facebook.com/UoKSport/"><img src="fb_icon.png" style="height: 45px" width="45px"></a></li>
+            <li style="padding-right: 10px"><a href="https://twitter.com/kelaniyauni?lang=en"><img src="icon_6.png" style="height: 45px" width="45px"></a></li>
+
+            <li style="padding-right: 10px"><a href="https://www.linkedin.com/authwall?trk=bf&trkInfo=AQH03QlX8dWvDQAAAW-ZzYpwdtxdoYUBUdhu6KoBr-DAWtJqKMkTOEmKwg8Yzr4ZP5OhaoqWtPHPIbPRDSZkFuj4C2AWESld0_BIM0FZYqIrlnGRzZS7h7an_8BDShtLlAgL6XQ=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Funiversity-of-kelaniya"><img src="icon_4.png" style="height: 45px" width="45px"></a></li>
+
+            <li style="padding-right: 10px"><a href="https://plus.google.com/u/0/communities/115926617794273159207"><img src="icon_3.png" style="height: 45px" width="45px"></a></li>
+
+            <li style="padding-right: 10px"><a href="https://www.youtube.com/user/UniversityofKelaniya"><img src="icon_2.png" style="height: 45px" width="45px"></a></li>
+
+            <li ><a href="https://www.instagram.com/university_of_kelaniya/?hl=en"><img src="icon_1.png" style="height: 45px" width="45px"></a></li>
+
+
+        </ul>
+
+    </div><br>
+
+
+    <div class="row">
+        <div class="col-6 "  >
+            <img src="home_undaer1.jpg" style=" width:100%" height="400px" >
+        </div>
+        <div class="col-6">
+            <img src="home_under_2.jpg" style="width:100%" height="400px">
+        </div>
+    </div><br>
+
+
+
+
+
+    <div class=" container-fluid" style="background-color: #EBE3DF; height: 300px; ">
+        <div class="row" style="padding-top: 80px;">
+            <div class="col-md-4">
+                <ul>
+                    <li><i>home</li>
+                    <li>about us</li>
+                    <li>contact us</li>
+                    <a href="register.html"> <li>register</i></li></a>
+                </ul>
+            </div>
+            <div class="col-md-4">
+                <ul>
+                    <li>info@theselectapp.com</li>
+                    <li> +9714243392</li>
+                    <li>
+                        Office 2007, Condrad Hotel
+                        P.O.Box:5610
+                        Dubai,United Arab Emirates</li>
+
+
+
+
+                </ul>
+            </div>
+
+            <!--Google map-->
+            <div id="map-container-google-1" class="z-depth-1-half map-container col-md-4"  >
+                <iframe src="https://maps.google.com/maps?q=manhatan&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
+                        style="border:0" allowfullscreen></iframe>
+            </div>
+
+
+            <!--Google Maps-->
+        </div>
+        <p style="text-align: center; margin-top: 30px;">----------------©2019 ------------</p>
+    </div>
+    <script>
+        var myIndex = 0;
+        carousel();
+
+        function carousel() {
+            var i;
+            var x = document.getElementsByClassName("mySlides");
+            for (i = 0; i < x.length; i++) {
+                x[i].style.display = "none";
+            }
+            myIndex++;
+            if (myIndex > x.length) {myIndex = 1}
+            x[myIndex-1].style.display = "block";
+            setTimeout(carousel, 2000); // Change image every 2 seconds
+        }
+    </script>
+</div>
+</body>
+</body>
+</html>

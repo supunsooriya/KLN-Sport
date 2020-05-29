@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4177582e-bc09-4bc1-be7e-b79478304061" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VZg3wiGnT52szijVSPmJOSyfUh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../New folder" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\web_new\WebStorm 2019.3.1\New folder_new" />
+      <recent name="C:\web_new\WebStorm 2019.3.1\New folder" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4177582e-bc09-4bc1-be7e-b79478304061" name="Default Changelist" comment="" />
+      <created>1577465835606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577465835606</updated>
+      <workItem from="1577465837434" duration="8648000" />
+      <workItem from="1577505116431" duration="23012000" />
+      <workItem from="1577543344753" duration="1149000" />
+      <workItem from="1577593080915" duration="16983000" />
+      <workItem from="1577636801951" duration="19203000" />
+      <workItem from="1577708754089" duration="1129000" />
+      <workItem from="1577718469825" duration="588000" />
+      <workItem from="1577775852259" duration="935000" />
+      <workItem from="1577856626737" duration="7892000" />
+      <workItem from="1577871069878" duration="51000" />
+      <workItem from="1577942702020" duration="24363000" />
+      <workItem from="1578735562628" duration="12793000" />
+      <workItem from="1578762196127" duration="2006000" />
+      <workItem from="1578813631124" duration="19461000" />
+      <workItem from="1578845118800" duration="2579000" />
+      <workItem from="1578906465383" duration="482000" />
+      <workItem from="1578912117776" duration="8960000" />
+      <workItem from="1578935786279" duration="4551000" />
+      <workItem from="1578975039944" duration="18412000" />
+      <workItem from="1579002517350" duration="11253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577858738174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1577858738174" />
+    <state x="754" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578922225064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="754" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1578922225064" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1578995529087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578995529087" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1578817794204">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1578817794204" />
+    <state x="383" y="128" width="598" height="600" key="search.everywhere.popup" timestamp="1577684787483">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="383" y="128" width="598" height="600" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577684787483" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1577469112001" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/java.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
